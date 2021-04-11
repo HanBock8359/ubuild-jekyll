@@ -23,7 +23,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: A new registration app<br><strong>TermSetter</strong>
+  headline: A new registration application<br><strong>TermSetter</strong>
   content: The tool that allows you to explore offered courses and enhanced the registration
     process.
   cta:
