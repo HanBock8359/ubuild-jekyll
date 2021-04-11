@@ -23,13 +23,13 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: A new registration app<br><strong>TermSetter</strong>
+  content: The tool that allows you to explore offered courses and enhanced the registration
+    process.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    url: https://code.cs.umanitoba.ca/3350-winter-2021-a02/group-6/aurora-but-better-a02-group-6
+    button_text: See on GitLab
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
