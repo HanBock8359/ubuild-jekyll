@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Homepage
-date: 2021-04-11 02:20:00 -0400
+date: 2021-04-11T02:20:00.000-04:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -78,6 +78,6 @@ page_sections:
     Blocks and preview them as you go along.</p></li></ol>
 - template: simple-footer
   block: footer-1
-  content: Made with ❤︎ in Canada
+  content: Made with Andrea, Eriq, Farjad, Kevin, Mika, Tuan
 
 ---
