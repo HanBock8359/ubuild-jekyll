@@ -85,7 +85,7 @@ page_sections:
     image: "/uploads/2018/06/21/forestry-full.svg"
     caption: LOL
   image_2:
-    image: ''
-    caption: ''
+    image: "/uploads/2018/06/21/product-shot-1.png"
+    caption: second image
 
 ---
