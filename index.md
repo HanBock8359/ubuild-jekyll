@@ -79,13 +79,5 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with Andrea, Eriq, Farjad, Kevin, Mika, Tuan
-- template: 2-column-media-element
-  block: media-2
-  image_1:
-    image: "/uploads/2018/06/21/forestry-full.svg"
-    caption: LOL
-  image_2:
-    image: "/uploads/2018/06/21/product-shot-1.png"
-    caption: second image
 
 ---
