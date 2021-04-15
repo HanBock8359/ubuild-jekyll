@@ -70,18 +70,14 @@ page_sections:
   slug: blocks
 - template: detail-content
   block: text-1
-  headline: Steps to Build a Site!
-  content: <p>uBuild is an open-source Jekyll based demo that doubles as a builder
-    tool inside the Forestry content manager.</p><ol><li><p><a href="https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll">Import
-    this demo in Forestry</a>.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
-    article</a> and create your own Blocks.</p></li><li><p>Add and customize the available
-    Blocks and preview them as you go along.</p></li></ol>
+  headline: Steps to build TermSetter!
+  content: <p>TermSetter Description (write how to build the app in Android Studio)</p><ol><li><p>Clone
+    the source code from our <a href="https://code.cs.umanitoba.ca/3350-winter-2021-a02/group-6/aurora-but-better-a02-group-6"
+    title="">GitLab</a>.</p></li><li><p>Please refer to <a href="https://code.cs.umanitoba.ca/3350-winter-2021-a02/group-6/aurora-but-better-a02-group-6/-/blob/master/README.md"
+    title="">README.md</a> regarding the architecture (and its diagram) and worksheet
+    for each iteration.</p></li></ol><p></p>
 - template: simple-footer
   block: footer-1
   content: Made with Andrea, Eriq, Farjad, Kevin, Mika, Tuan
-- template: navigation-header
-  block: header-1
-  logo: ''
-  navigation: []
 
 ---
