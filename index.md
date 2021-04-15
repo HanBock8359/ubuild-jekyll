@@ -79,5 +79,9 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with Andrea, Eriq, Farjad, Kevin, Mika, Tuan
+- template: navigation-header
+  block: header-1
+  logo: ''
+  navigation: []
 
 ---
