@@ -76,6 +76,10 @@ page_sections:
     this demo in Forestry</a>.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
     article</a> and create your own Blocks.</p></li><li><p>Add and customize the available
     Blocks and preview them as you go along.</p></li></ol>
+- template: detail-content
+  block: text-1
+  headline: Sample YouTube Video
+  content: ''
 - template: simple-footer
   block: footer-1
   content: Made with Andrea, Eriq, Farjad, Kevin, Mika, Tuan
