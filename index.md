@@ -71,7 +71,7 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   slug: ''
-  caption: YouTube Video (sample)
+  caption: 'YouTube Video (sample) '
   image: "/uploads/2021/04/15/sample-mp4-file.mp4"
 - template: detail-content
   block: text-1
