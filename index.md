@@ -36,7 +36,7 @@ page_sections:
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   slug: swap
   headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
     class="light">the Blocks to create sites quickly</span>
