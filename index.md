@@ -68,6 +68,11 @@ page_sections:
   image: "/uploads/2018/06/21/theme.png"
   caption: Media block
   slug: blocks
+- template: full-width-media-element
+  block: media-1
+  slug: ''
+  caption: YouTube Video (sample)
+  image: ''
 - template: detail-content
   block: text-1
   headline: Steps to build TermSetter!
