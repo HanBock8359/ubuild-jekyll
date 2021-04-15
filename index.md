@@ -72,7 +72,7 @@ page_sections:
   block: media-1
   slug: ''
   caption: YouTube Video (sample)
-  image: ''
+  image: "/uploads/2021/04/15/sample-mp4-file.mp4"
 - template: detail-content
   block: text-1
   headline: Steps to build TermSetter!
