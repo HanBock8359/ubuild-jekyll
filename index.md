@@ -65,7 +65,10 @@ page_sections:
     register courses you want. It also provides a better GUI as well.
 - template: 1-column-text
   block: one-column-1
-  content: <a href="https://www.youtube.com/watch?v=MthLgPs7oU4" title="watch?v=MthLgPs7oU4">watch?v=MthLgPs7oU4</a>
+  content: '&lt;iframe width="560" height="315" src="<a href="https://www.youtube.com/embed/EiKK04Ht8QI"
+    title="https://www.youtube.com/embed/EiKK04Ht8QI">https://www.youtube.com/embed/EiKK04Ht8QI</a>"
+    title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+    encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;'
   headline: Sample YouTube Video!
   slug: ''
 - template: full-width-media-element
