@@ -66,7 +66,7 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
-  caption: You
+  caption: YouTube Video!
   slug: blocks
 - template: detail-content
   block: text-1
