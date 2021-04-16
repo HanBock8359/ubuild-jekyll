@@ -130,7 +130,11 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: TermSetter Velocity Graph
-  content: <img src="/uploads/2021/04/16/termsetter_velocity_graph.png">
+  content: <img src="/uploads/2021/04/16/termsetter_velocity_graph.png"><br>As we
+    progressed through iterations our estimates became better, partly due to the fact
+    that they were more difficult to apply in the beginning. Features in later iterations
+    were reliant on code established in earlier iterations so It became easier to
+    measure how much we could get done between them.
   slug: ''
 - template: simple-footer
   block: footer-1
