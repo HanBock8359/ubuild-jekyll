@@ -56,6 +56,23 @@ page_sections:
   media:
     image: "/uploads/2021/04/16/termsetter_transcript.png"
     alt_text: Customize Blocks
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: Better than Aurora
+    slug: TermSetter is user-friendly. No zoom ins, no accidentally press wrong rows
+      of text, no getting kicked out. Just pure enrollment.
+    content: ''
+  col_2:
+    headline: Made by local students who care
+    slug: TermSetter is an app by students and for students. We love us a tech that
+      will make our lives easier and enrollments less stressful.
+    content: ''
+  col_3:
+    headline: Open-source?
+    slug: Yes! TermSetter is open source. That means if you are a developer, you are
+      welcome to share ideas and contribute on how to make TermSetter better
+    content: ''
 - template: 1-column-text
   block: one-column-1
   slug: "#about"
