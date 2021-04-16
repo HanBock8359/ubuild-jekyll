@@ -24,7 +24,7 @@ page_sections:
   block: hero-2
   slug: features
   headline: A new registration application<br><strong>TermSetter</strong>
-  content: The tool that allows you to explore offered courses and enhanced the registration
+  content: A tool that allows you to explore offered courses and enhanced the registration
     process.
   cta:
     enabled: true
