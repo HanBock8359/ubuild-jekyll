@@ -13,8 +13,8 @@ page_sections:
     link_text: Demo
   - link: "#customize"
     link_text: Customize
-  - link: "#responsive"
-    link_text: Responsive
+  - link: "#demo"
+    link_text: Demo
   - link: "#blocks"
     link_text: Blocks
   cta:
