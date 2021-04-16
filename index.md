@@ -68,8 +68,7 @@ page_sections:
   headline: TermSetter (Better than UofM Aurora)
   content: TermSetter is an Android Application that can you used as an alternative
     of UofM Aurora. You can use TermSetter to login, explore offered courses, and
-    register courses you want. It also provides a better GUI as well.<br><br>YouTube
-    Video
+    register courses you want. It also provides a better GUI as well.
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
