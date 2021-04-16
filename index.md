@@ -13,6 +13,8 @@ page_sections:
     link_text: Demo
   - link: "#customize"
     link_text: Customize
+  - link: "#about"
+    link_text: About
   - link: "#demo"
     link_text: Demo
   - link: "#blocks"
@@ -58,7 +60,7 @@ page_sections:
     alt_text: Customize Blocks
 - template: 1-column-text
   block: one-column-1
-  slug: "#vision"
+  slug: "#about"
   headline: What is TermSetter?
   content: TermSetter Description<br><br>Vision, intended users, overview of major
     functionality, list of team members (what did we learn?)<br><br>Sales pitch.
