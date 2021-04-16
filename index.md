@@ -73,8 +73,8 @@ page_sections:
     register courses you want. It also provides a better GUI as well.
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: Media block
+  image: "/uploads/2021/04/16/meme.png"
+  caption: Velocity Chart for Group 6 (Iteration 0 to 3)
   slug: blocks
 - template: detail-content
   block: text-1
@@ -99,10 +99,6 @@ page_sections:
     functionalities our way and meddling with unfamiliar libraries. Next time, we
     should remember that a sample project exists and that we should just copy its
     existing patterns</p>"
-- template: detail-content
-  block: text-1
-  headline: Velocity chart
-  content: <p><img src="/uploads/2021/04/16/meme.png"></p>
 - template: simple-footer
   block: footer-1
   content: Made with Andrea, Eriq, Farjad, Kevin, Mika, and Tuan (Group 6, Section
