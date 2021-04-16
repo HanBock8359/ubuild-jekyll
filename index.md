@@ -78,8 +78,8 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Steps to build TermSetter!
-  content: <p>TermSetter Description (write how to build the app in Android Studio)</p><ol><li><p>Clone
-    the source code from our <a href="https://code.cs.umanitoba.ca/3350-winter-2021-a02/group-6/aurora-but-better-a02-group-6"
+  content: <p><strong>TermSetter Description (write how to build the app in Android
+    Studio)</strong></p><ol><li><p>Clone the source code from our <a href="https://code.cs.umanitoba.ca/3350-winter-2021-a02/group-6/aurora-but-better-a02-group-6"
     title="">GitLab</a>.</p></li><li><p>Please refer to <a href="https://code.cs.umanitoba.ca/3350-winter-2021-a02/group-6/aurora-but-better-a02-group-6/-/blob/master/README.md"
     title="">README.md</a> regarding the architecture (and its diagram) and worksheet
     for each iteration.</p></li></ol><p></p>
