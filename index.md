@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: "/"
     link_text: TermSetter
-  - link: "#view&register"
+  - link: "#view"
     link_text: View & Register
   - link: "#customize"
     link_text: Customize
@@ -37,7 +37,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  slug: view&register
+  slug: view
   headline: "<strong>View &amp; Register</strong> courses"
   content: Quickly assemble and create custom sites with 16 design blocks for seven
     different sections.
