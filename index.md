@@ -48,7 +48,7 @@ page_sections:
   block: feature-1
   media_alignment: Right
   slug: view
-  headline: "<strong>View</strong>"
+  headline: "<strong>View &amp; Oraganize</strong>"
   content: TermSetter will organize enrolled courses and provide summaries for you
   media:
     image: "/uploads/2021/04/16/termsetter_transcript.png"
