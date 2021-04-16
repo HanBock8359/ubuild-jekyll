@@ -51,7 +51,7 @@ page_sections:
   slug: view
   headline: "<strong>View &amp; Organize</strong>"
   content: TermSetter will organize enrolled courses and provide summaries to make
-    you keep on a track!
+    you keep on track!
   media:
     image: "/uploads/2021/04/16/termsetter_transcript.png"
     alt_text: Customize Blocks
