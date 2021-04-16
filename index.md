@@ -131,6 +131,11 @@ page_sections:
   block: text-1
   headline: Velocity Chart
   content: <p><img src="/uploads/2021/04/16/termsetter_velocity_graph.png"></p>
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2021/04/16/termsetter_velocity_graph.png"
+  caption: TermSetter Velocity Graph
+  slug: ''
 - template: simple-footer
   block: footer-1
   content: Made with Andrea, Eriq, Farjad, Kevin, Mika, and Tuan (Group 6, Section
