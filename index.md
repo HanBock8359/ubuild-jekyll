@@ -99,6 +99,10 @@ page_sections:
     functionalities our way and meddling with unfamiliar libraries. Next time, we
     should remember that a sample project exists and that we should just copy its
     existing patterns</p>"
+- template: detail-content
+  block: text-1
+  headline: Velocity Chart
+  content: <p><img src="/uploads/2021/04/16/meme.png"></p>
 - template: simple-footer
   block: footer-1
   content: Made with Andrea, Eriq, Farjad, Kevin, Mika, and Tuan (Group 6, Section
