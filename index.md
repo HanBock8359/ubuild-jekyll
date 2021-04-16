@@ -54,7 +54,7 @@ page_sections:
     keep on track! Have your transcript by your fingertips, it had never been this
     easy
   media:
-    image: "/uploads/2021/04/16/transcript.png"
+    image: "/uploads/2021/04/16/termsetter_transcript.png"
     alt_text: Customize Blocks
 - template: 1-column-text
   block: one-column-1
