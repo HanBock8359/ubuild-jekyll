@@ -10,7 +10,7 @@ page_sections:
   - link: "/"
     link_text: TermSetter
   - link: "#swap"
-    link_text: Demo
+    link_text: Swap
   - link: "#customize"
     link_text: Customize
   - link: "#about"
