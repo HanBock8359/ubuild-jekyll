@@ -31,7 +31,7 @@ page_sections:
     url: https://code.cs.umanitoba.ca/3350-winter-2021-a02/group-6/aurora-but-better-a02-group-6
     button_text: See on GitLab
   image:
-    image: "/uploads/2021/04/16/termsetter_login_page.png"
+    image: "/uploads/2021/04/16/login.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
@@ -40,20 +40,21 @@ page_sections:
   slug: register
   headline: "<strong>Browse &amp; Register</strong>"
   content: Browse the courses offered from four different departments (Accounting,
-    Actuarial Study, Computer Science, and Mathematics) and register courses of your
-    choice!
+    Actuarial Study, Computer Science, and Mathematics) and get in the classes of
+    your choice. Course selection and navigation is made more convenient by TermSetter!
   media:
-    image: "/uploads/2021/04/16/termsetter_enroll.png"
+    image: "/uploads/2021/04/16/sections.png"
     alt_text: uBuild Blocks Mock-Up
 - template: content-feature
   block: feature-1
   media_alignment: Right
   slug: view
   headline: "<strong>View &amp; Organize</strong>"
-  content: TermSetter will organize enrolled courses and provide summaries to make
-    you keep on track!
+  content: TermSetter will organize your courses and provide summaries to make you
+    keep on track! Have your transcript by your fingertips, it had never been this
+    easy
   media:
-    image: "/uploads/2021/04/16/termsetter_transcript.png"
+    image: "/uploads/2021/04/16/transcript.png"
     alt_text: Customize Blocks
 - template: 1-column-text
   block: one-column-1
