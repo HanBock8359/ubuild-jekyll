@@ -34,12 +34,6 @@ page_sections:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
-- template: 1-column-text
-  block: one-column-1
-  slug: "#vision"
-  headline: What is TermSetter?
-  content: TermSetter Description<br><br>Vision, intended users, overview of major
-    functionality, list of team members (what did we learn?)<br><br>Sales pitch.
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -62,6 +56,12 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
+- template: 1-column-text
+  block: one-column-1
+  slug: "#vision"
+  headline: What is TermSetter?
+  content: TermSetter Description<br><br>Vision, intended users, overview of major
+    functionality, list of team members (what did we learn?)<br><br>Sales pitch.
 - template: 1-column-text
   block: one-column-1
   slug: demo
