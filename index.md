@@ -149,7 +149,7 @@ page_sections:
   slug: ''
 - template: simple-footer
   block: footer-1
-  content: Made with Andrea, Eriq, Farjad, Kevin, Mika, and Tuan (Group 6, Section
-    A02)
+  content: TermSetter © 2021<br>Made with love by Andrea, Eriq, Farjad, Kevin, Mika,
+    and Tuan (Group 6, A02)
 
 ---
