@@ -31,9 +31,9 @@ page_sections:
     url: https://code.cs.umanitoba.ca/3350-winter-2021-a02/group-6/aurora-but-better-a02-group-6
     button_text: See on GitLab
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: "/uploads/2021/04/16/termsetter_login_page.png"
     alt_text: Product Shot
-  background_image: "/uploads/2021/04/16/termsetter_login_page.png"
+  background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
   block: feature-1
   media_alignment: Left
