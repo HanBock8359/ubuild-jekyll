@@ -63,14 +63,10 @@ page_sections:
   slug: "#about"
   headline: What is TermSetter?
   content: TermSetter Description<br><br>Vision, intended users, overview of major
-    functionality, list of team members (what did we learn?)<br><br>Sales pitch.
-- template: 1-column-text
-  block: one-column-1
-  slug: demo
-  headline: TermSetter (Better than UofM Aurora)
-  content: TermSetter is an Android Application that can you used as an alternative
-    of UofM Aurora. You can use TermSetter to login, explore offered courses, and
-    register courses you want. It also provides a better GUI as well.
+    functionality, list of team members (what did we learn?)<br><br>Sales pitch.<br><br>TermSetter
+    is an Android Application that can you used as an alternative of UofM Aurora.
+    You can use TermSetter to login, explore offered courses, and register courses
+    you want. It also provides a better GUI as well.
 - template: detail-content
   block: text-1
   headline: Steps to build TermSetter!
