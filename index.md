@@ -39,7 +39,7 @@ page_sections:
   slug: "#vision"
   headline: What is TermSetter?
   content: TermSetter Description<br><br>Vision, intended users, overview of major
-    functionality, list of team members (what did we learn?)<br><br>Sales pitch
+    functionality, list of team members (what did we learn?)<br><br>Sales pitch.
 - template: content-feature
   block: feature-1
   media_alignment: Left
