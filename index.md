@@ -127,14 +127,10 @@ page_sections:
     ended up being the longest feature to implement - counting 10 days! </p><p><strong>Did
     any features work better than expected?</strong></p><p>Eriq: The logout button
     always worked.</p>"
-- template: detail-content
-  block: text-1
-  headline: Velocity Chart
-  content: <p><img src="/uploads/2021/04/16/termsetter_velocity_graph.png"></p>
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2021/04/16/termsetter_velocity_graph.png"
-  caption: TermSetter Velocity Graph
+- template: 1-column-text
+  block: one-column-1
+  headline: TermSetter Velocity Graph
+  content: <img src="/uploads/2021/04/16/termsetter_velocity_graph.png">
   slug: ''
 - template: simple-footer
   block: footer-1
