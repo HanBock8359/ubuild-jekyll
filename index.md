@@ -50,8 +50,8 @@ page_sections:
   slug: view
   headline: <strong>View </strong>courses<span class="light"> to make quick edits
     throughout your new site</span>
-  content: Each block comes with custom Front Matter that can be edited in Forestry
-    CMS.
+  content: TermSetter will organize enrolled courses and provide summaries for your
+    academic pursuit.
   media:
     image: "/uploads/2021/04/16/termsetter_transcript.png"
     alt_text: Customize Blocks
