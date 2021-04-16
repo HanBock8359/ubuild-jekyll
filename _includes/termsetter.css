@@ -38,10 +38,6 @@
     text-align:center;
 }
 
-@media screen and (min-width:700px){
-    .block-hero-1{min-height:500px}
-}
-
 .block-hero-2{
     --bg:#34cccb;
     --text:#fff;
@@ -52,12 +48,12 @@
     min-height:100vh;
     background-color:var(--bg);color:var(--text);
     background-repeat:no-repeat;background-size:auto 100%;
-    background-position:100%
+    background-position:100%;
 }
 
 .block-cta-bar{
     padding:32px;
     padding:2rem;
     background:#34cccb;
-    color:#fff
+    color:#fff;
 }
