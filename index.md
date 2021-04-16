@@ -109,19 +109,24 @@ page_sections:
     and enroll in courses offered in Winter 2021!</p></li></ol>
 - template: detail-content
   block: text-1
-  headline: Postmortum
-  content: "<p><strong>Can you draw any conclusions from what you've done? </strong></p><p>Mika:
-    Android Studio is the Tim Hortons of software consistency</p><p><strong>What took
-    the most time? The least? Any surprises? </strong></p><p>Kevin: Setting up HSQLDB
-    took us the most time. Making a presentation video took the least time (and surprisingly
-    my voice sounds very different from I hear).</p><p><strong>Did any features work
-    better than expected? </strong></p><p>Eriq: The logout button always worked.</p><p><strong>Can
-    you draw any conclusions from what you’ve done? </strong></p><p>Andrea: Diving
-    headfirst to Android Studio(with its mediocre documentation) and learning the
-    strings from scratch is not an easy feat. Our team took great risks implementing
+  headline: Postmortem
+  content: "<p><strong>Can you draw any conclusions from what you've done?</strong></p><p><strong>Mika</strong>:
+    Android Studio is the Tim Hortons of software consistency</p><p><strong>Andrea</strong>:
+    Diving headfirst to Android Studio(with its mediocre documentation) and learning
+    the strings from scratch is not an easy feat. Our team took great risks implementing
     functionalities our way and meddling with unfamiliar libraries. Next time, we
-    should remember that a sample project exists and that we should just copy its
-    existing patterns</p>"
+    should remember that a sample project exists and that we should copy its existing
+    patterns</p><p><strong>What took the most time? The least? Any surprises?</strong></p><p><strong>Kevin</strong>:
+    Setting up HSQLDB took us the most time. Making a presentation video took the
+    least time (and surprisingly my voice sounds very different from I hear)</p><p><strong>Andrea</strong>:
+    Working with Enrollment took me by surprise. I thought it would be one of the
+    shorter ones, assigning it an estimate of 2 days. It seems as simple enough as
+    adding one SQL statement. I did not expect the depth of integration it will require:
+    conflict logics, class limits, schema restructuring, dynamically generating sections,
+    and passing all course and section information back and forth through seams. It
+    ended up being the longest feature to implement - counting 10 days! </p><p><strong>Did
+    any features work better than expected?</strong></p><p>Eriq: The logout button
+    always worked.</p>"
 - template: detail-content
   block: text-1
   headline: Velocity Chart
