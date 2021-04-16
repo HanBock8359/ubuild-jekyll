@@ -13,8 +13,6 @@ page_sections:
     link_text: View
   - link: "#register"
     link_text: Register
-  - link: "#customize"
-    link_text: Customize
   - link: "#about"
     link_text: About
   - link: "#demo"
