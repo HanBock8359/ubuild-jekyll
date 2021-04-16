@@ -15,8 +15,6 @@ page_sections:
     link_text: Register
   - link: "#about"
     link_text: About
-  - link: "#demo"
-    link_text: Demo
   cta:
     url: https://code.cs.umanitoba.ca/3350-winter-2021-a02/group-6/aurora-but-better-a02-group-6
     button_text: Visit gitLab
