@@ -37,8 +37,8 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  slug: view
-  headline: "<strong>View &amp; Register</strong> courses"
+  slug: register
+  headline: "<strong>Register</strong> courses"
   content: Quickly assemble and create custom sites with 16 design blocks for seven
     different sections.
   media:
