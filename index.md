@@ -67,6 +67,11 @@ page_sections:
     register for courses you want. It also provides a better GUI as well.<br><br>Vision<br><br>Intended
     users<br><br>An overview of major functionality<br><br>List of team members (what
     did we learn?)<br><br>Sales pitch.<br>
+- template: 1-column-text
+  block: one-column-1
+  slug: demo
+  headline: TermSetter Demo
+  content: ''
 - template: detail-content
   block: text-1
   headline: Steps to build TermSetter!
