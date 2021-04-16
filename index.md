@@ -86,5 +86,19 @@ page_sections:
   block: footer-1
   content: Made with Andrea, Eriq, Farjad, Kevin, Mika, and Tuan (Group 6, Section
     A02)
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: headline1
+    content: lol
+    slug: ''
+  col_2:
+    headline: headline2
+    content: lol2
+    slug: ''
+  col_3:
+    headline: headline34
+    content: "33"
+    slug: ''
 
 ---
