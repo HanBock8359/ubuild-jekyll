@@ -80,7 +80,8 @@ page_sections:
   content: <ol><li><p>Clone the source code from our <a href="https://code.cs.umanitoba.ca/3350-winter-2021-a02/group-6/aurora-but-better-a02-group-6"
     title="">GitLab</a></p></li><li><p>Open the source code with Android Studio (i.e.
     Open an Existing Project)</p></li><li><p>Run the app (or press Shift + F10) after
-    Gradle sync is completed</p></li></ol>
+    Gradle sync is completed</p></li><li><p>Feel free to create an account, browse
+    and enroll in courses offered in Winter 2021!</p></li></ol>
 - template: simple-footer
   block: footer-1
   content: Made with Andrea, Eriq, Farjad, Kevin, Mika, Tuan
