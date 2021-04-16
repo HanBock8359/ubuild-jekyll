@@ -39,8 +39,9 @@ page_sections:
   media_alignment: Left
   slug: register
   headline: "<strong>Browse &amp; Register</strong>"
-  content: Browse the courses offered from four different departments and register
-    courses of your choice!
+  content: Browse the courses offered from four different departments (Accounting,
+    Actuarial Study, Computer Science, and Mathematics) and register courses of your
+    choice!
   media:
     image: "/uploads/2021/04/16/termsetter_enroll.png"
     alt_text: uBuild Blocks Mock-Up
