@@ -78,11 +78,10 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Steps to build TermSetter!
-  content: <p><strong>TermSetter Description (write how to build the app in Android
-    Studio)</strong></p><ol><li><p>Clone the source code from our <a href="https://code.cs.umanitoba.ca/3350-winter-2021-a02/group-6/aurora-but-better-a02-group-6"
-    title="">GitLab</a>.</p></li><li><p>Please refer to <a href="https://code.cs.umanitoba.ca/3350-winter-2021-a02/group-6/aurora-but-better-a02-group-6/-/blob/master/README.md"
-    title="">README.md</a> regarding the architecture (and its diagram) and worksheet
-    for each iteration.</p></li></ol><p></p>
+  content: <ol><li><p>Clone the source code from our <a href="https://code.cs.umanitoba.ca/3350-winter-2021-a02/group-6/aurora-but-better-a02-group-6"
+    title="">GitLab</a></p></li><li><p>Open the source code with Android Studio (i.e.
+    Open an Existing Project)</p></li><li><p>Run the app (or press Shift + F10) after
+    Gradle sync is completed</p></li></ol>
 - template: simple-footer
   block: footer-1
   content: Made with Andrea, Eriq, Farjad, Kevin, Mika, Tuan
