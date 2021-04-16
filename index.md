@@ -73,7 +73,7 @@ page_sections:
   block: media-1
   slug: ''
   caption: 'YouTube Video (sample) '
-  image: "/uploads/2018/06/21/forestry-symbol.svg"
+  image: "/uploads/2021/04/16/termsetter_timetable.png"
 - template: detail-content
   block: text-1
   headline: Steps to build TermSetter!
