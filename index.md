@@ -50,8 +50,7 @@ page_sections:
   slug: view
   headline: <strong>View </strong>courses<span class="light"> to make quick edits
     throughout your new site</span>
-  content: TermSetter will organize enrolled courses and provide summaries for your
-    academic pursuit.
+  content: TermSetter will organize enrolled courses and provide summaries for you
   media:
     image: "/uploads/2021/04/16/termsetter_transcript.png"
     alt_text: Customize Blocks
