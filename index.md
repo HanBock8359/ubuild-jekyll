@@ -64,14 +64,6 @@ page_sections:
     of UofM Aurora. You can use TermSetter to login, explore offered courses, and
     register courses you want. It also provides a better GUI as well.<br><br>YouTube
     Video
-- template: 1-column-text
-  block: one-column-1
-  content: '&lt;iframe width="560" height="315" src="<a href="https://www.youtube.com/embed/EiKK04Ht8QI"
-    title="https://www.youtube.com/embed/EiKK04Ht8QI">https://www.youtube.com/embed/EiKK04Ht8QI</a>"
-    title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-    encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;'
-  headline: Sample YouTube Video!
-  slug: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
