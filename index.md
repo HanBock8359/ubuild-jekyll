@@ -85,14 +85,15 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Postmortum
-  content: "<p><strong>Can you draw any conclusions from what you've done? </strong></p><p>A:
+  content: "<p><strong>Can you draw any conclusions from what you've done? </strong></p><p>Mika:
     Android Studio is the Tim Hortons of software consistency</p><p><strong>What took
-    the most time? The least? Any surprises? </strong></p><p>A: Setting up HSQLDB
-    took us the most time. Making a presentation video took the least time LOL</p><p><strong>Did
-    any features work better than expected? </strong></p><p>A: The logout button always
-    worked.</p><p><strong>Can you draw any conclusions from what you’ve done? </strong></p><p>A:
-    Diving headfirst to Android Studio(with its mediocre documentation) and learning
-    the strings from scratch is not an easy feat. Our team took great risks implementing
+    the most time? The least? Any surprises? </strong></p><p>Kevin: Setting up HSQLDB
+    took us the most time. Making a presentation video took the least time (and surprisingly
+    my voice sounds very different from I hear).</p><p><strong>Did any features work
+    better than expected? </strong></p><p>Eriq: The logout button always worked.</p><p><strong>Can
+    you draw any conclusions from what you’ve done? </strong></p><p>Andrea: Diving
+    headfirst to Android Studio(with its mediocre documentation) and learning the
+    strings from scratch is not an easy feat. Our team took great risks implementing
     functionalities our way and meddling with unfamiliar libraries. Next time, we
     should remember that a sample project exists and that we should just copy its
     existing patterns</p>"
