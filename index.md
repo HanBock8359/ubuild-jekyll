@@ -50,7 +50,7 @@ page_sections:
   block: feature-1
   media_alignment: Right
   slug: view
-  headline: <strong>View courses</strong><span class="light"> to make quick edits
+  headline: <strong>View </strong>courses<span class="light"> to make quick edits
     throughout your new site</span>
   content: Each block comes with custom Front Matter that can be edited in Forestry
     CMS.
