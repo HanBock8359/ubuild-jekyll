@@ -84,6 +84,7 @@ page_sections:
     and enroll in courses offered in Winter 2021!</p></li></ol>
 - template: simple-footer
   block: footer-1
-  content: Made with Andrea, Eriq, Farjad, Kevin, Mika, Tuan (Group 6, Section A02)
+  content: Made with Andrea, Eriq, Farjad, Kevin, Mika, and Tuan (Group 6, Section
+    A02)
 
 ---
