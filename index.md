@@ -69,7 +69,7 @@ page_sections:
   block: one-column-1
   slug: "#demo"
   headline: TermSetter Demo
-  content: ''
+  content: Link to YouTube Video
 - template: detail-content
   block: text-1
   headline: Steps to build TermSetter!
