@@ -38,7 +38,7 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: register
-  headline: "<strong>Browse &amp; Register</strong> courses"
+  headline: "<strong>Browse &amp; Register</strong>"
   content: Browse the courses offered from four different departments and register
     courses of your choice!
   media:
