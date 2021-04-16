@@ -66,10 +66,10 @@ page_sections:
     to U of M Aurora. You can use TermSetter to log in, explore offered courses, and
     register for courses you want. It also provides a better GUI as well.<br><br>Vision<br><br>Intended
     users<br><br>An overview of major functionality<br><br>List of team members (what
-    did we learn?)<br><br>Sales pitch.<br>
+    did we learn?)<br><br>Sales pitch.
 - template: 1-column-text
   block: one-column-1
-  slug: demo
+  slug: "#demo"
   headline: TermSetter Demo
   content: ''
 - template: detail-content
