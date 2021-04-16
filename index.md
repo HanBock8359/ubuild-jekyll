@@ -10,7 +10,9 @@ page_sections:
   - link: "/"
     link_text: TermSetter
   - link: "#view"
-    link_text: View & Register
+    link_text: View
+  - link: "#register"
+    link_text: Register
   - link: "#customize"
     link_text: Customize
   - link: "#about"
