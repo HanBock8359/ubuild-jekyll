@@ -9,8 +9,8 @@ page_sections:
   navigation:
   - link: "/"
     link_text: TermSetter
-  - link: "#swap"
-    link_text: Swap
+  - link: "#view"
+    link_text: View & Register
   - link: "#customize"
     link_text: Customize
   - link: "#about"
@@ -37,9 +37,8 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  slug: swap
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
+  slug: view
+  headline: "<strong>View &amp; Register</strong> courses"
   content: Quickly assemble and create custom sites with 16 design blocks for seven
     different sections.
   media:
