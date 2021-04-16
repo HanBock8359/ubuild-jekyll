@@ -73,6 +73,14 @@ page_sections:
     slug: ''
     content: Yes! TermSetter is open source. That means if you are a developer, you
       are welcome to share ideas and contribute on how to make TermSetter better
+- template: detail-content
+  block: text-1
+  headline: Steps to build TermSetter!
+  content: <ol><li><p>Clone the source code from our <a href="https://code.cs.umanitoba.ca/3350-winter-2021-a02/group-6/aurora-but-better-a02-group-6"
+    title="">GitLab</a></p></li><li><p>Open the source code with Android Studio (i.e.
+    Open an Existing Project)</p></li><li><p>Run the app (or press Shift + F10) after
+    Gradle sync is completed</p></li><li><p>Feel free to create an account, browse
+    and enroll in courses offered in Winter 2021!</p></li></ol>
 - template: 1-column-text
   block: one-column-1
   slug: "#about"
@@ -118,14 +126,6 @@ page_sections:
   slug: "#demo"
   headline: TermSetter Demo
   content: Link to YouTube Video
-- template: detail-content
-  block: text-1
-  headline: Steps to build TermSetter!
-  content: <ol><li><p>Clone the source code from our <a href="https://code.cs.umanitoba.ca/3350-winter-2021-a02/group-6/aurora-but-better-a02-group-6"
-    title="">GitLab</a></p></li><li><p>Open the source code with Android Studio (i.e.
-    Open an Existing Project)</p></li><li><p>Run the app (or press Shift + F10) after
-    Gradle sync is completed</p></li><li><p>Feel free to create an account, browse
-    and enroll in courses offered in Winter 2021!</p></li></ol>
 - template: detail-content
   block: text-1
   headline: Postmortem
