@@ -39,8 +39,8 @@ page_sections:
   media_alignment: Left
   slug: register
   headline: "<strong>Register</strong> courses"
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+  content: Browse the courses offered from four different departments and register
+    courses of your choice!
   media:
     image: "/uploads/2021/04/16/termsetter_enroll.png"
     alt_text: uBuild Blocks Mock-Up
