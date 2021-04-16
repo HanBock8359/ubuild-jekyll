@@ -110,13 +110,7 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Postmortem
-  content: "<p><strong>Can you draw any conclusions from what you've done?</strong></p><p><strong>Mika</strong>:
-    Android Studio is the Tim Hortons of software consistency</p><p><strong>Andrea</strong>:
-    Diving headfirst to Android Studio(with its mediocre documentation) and learning
-    the strings from scratch is not an easy feat. Our team took great risks implementing
-    functionalities our way and meddling with unfamiliar libraries. Next time, we
-    should remember that a sample project exists and that we should copy its existing
-    patterns</p><p><strong>What took the most time? The least? Any surprises?</strong></p><p><strong>Kevin</strong>:
+  content: "<p><strong>What took the most time? The least? Any surprises?</strong></p><p><strong>Kevin</strong>:
     Setting up HSQLDB took us the most time. Making a presentation video took the
     least time (and surprisingly my voice sounds very different from I hear)</p><p><strong>Andrea</strong>:
     Working with Enrollment took me by surprise. I thought it would be one of the
@@ -124,9 +118,24 @@ page_sections:
     adding one SQL statement. I did not expect the depth of integration it will require:
     conflict logics, class limits, schema restructuring, dynamically generating sections,
     and passing all course and section information back and forth through seams. It
-    ended up being the longest feature to implement - counting 10 days! </p><p><strong>Did
-    any features work better than expected?</strong></p><p>Eriq: The logout button
-    always worked.</p>"
+    ended up being the longest feature to implement - counting 10 days!</p><p><strong>What
+    did you learn about team or large project development? What will you start doing,
+    keep doing, or stop doing next time?</strong></p><p><strong>Eriq</strong>: Two
+    people looking up things on Stackoverflow is better than one! Honestly, working
+    in a group of talented programmers and designers put me at ease. Trusting people
+    you don't know is very hard and I feel that I have an entry level understanding
+    of the development cycle and how a team must work together to make the vision
+    statement a reality. In the future, I plan to communicate with my team more and
+    not ghost them entirely. It took a lot of communication and annoying my teammates
+    with dumb questions to learn the many different ways you can do something. Everyday
+    we relied on each others strengths to move us forward.</p><p><strong>Can you draw
+    any conclusions from what you've done?</strong></p><p><strong>Mika</strong>: Android
+    Studio is the Tim Hortons of software consistency</p><p><strong>Andrea</strong>:
+    Diving headfirst to Android Studio(with its mediocre documentation) and learning
+    the strings from scratch is not an easy feat. Our team took great risks implementing
+    functionalities our way and meddling with unfamiliar libraries. Next time, we
+    should remember that a sample project exists and that we should copy its existing
+    patterns</p>"
 - template: 1-column-text
   block: one-column-1
   headline: TermSetter Velocity Graph
